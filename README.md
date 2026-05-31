@@ -3,7 +3,7 @@
 
 A SwiftUI example demonstrating how to create a smooth morphing transition between SF Symbols using blur effects, custom Metal shaders, and SwiftUI's animation system.
 
-![[MorphingAnimation.gif]]
+![MorphingAnimation](MorphingAnimation.gif)
 
 ## Overview
 
